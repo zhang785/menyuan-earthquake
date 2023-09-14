@@ -1,0 +1,5 @@
+# Updated on 19-Oct-2022
+# UTM ZONE: 47 S
+# Number of faults: 1  ModelType: Rectangle
+# x(km) y(km) str(deg) dip(deg) dep(km) wid(km) leng(km) s_slip(m) d_slip(m) o_slip(m)
+731.778440 4171.640025 127.000329 45.000000 8.930600 2.055779 2.000119 1.189417e+00 4.985710e+00 0.000000e+00
